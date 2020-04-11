@@ -1,3 +1,5 @@
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
 var Base64 = {
 _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
 encode: function (input) {
@@ -150,3 +152,5 @@ protected_links = protected_links.replace(" ", "");
 a_to_vf = protected_links.split(",");
 return a_to_vf;
 }
+</script>
+<!-- end Simple Custom CSS and JS -->
