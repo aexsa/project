@@ -1,4 +1,4 @@
-<!-- start Simple Custom CSS and JS -->
+// <!-- start Simple Custom CSS and JS -->
 <script type="text/javascript">
 var Base64 = {
 _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
@@ -153,4 +153,4 @@ a_to_vf = protected_links.split(",");
 return a_to_vf;
 }
 </script>
-<!-- end Simple Custom CSS and JS -->
+// <!-- end Simple Custom CSS and JS -->
