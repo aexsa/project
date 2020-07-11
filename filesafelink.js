@@ -99,11 +99,11 @@ var a_to_va = 0;
 var a_to_vb = 0;
 var a_to_vc = "";
 function auto_safelink() {
-  alert("Test");
 auto_safeconvert();
 }
 function auto_safeconvert() {
 var a_to_vd = window.location.hostname;
+  console.log(a_to_vd);
 if (protected_links != "" && !protected_links.match(a_to_vd)) {
 protected_links += ", " + a_to_vd;
 } else if (protected_links == "") {
