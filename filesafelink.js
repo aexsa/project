@@ -99,6 +99,7 @@ var a_to_va = 0;
 var a_to_vb = 0;
 var a_to_vc = "";
 function auto_safelink() {
+  alert("Test");
 auto_safeconvert();
 }
 function auto_safeconvert() {
